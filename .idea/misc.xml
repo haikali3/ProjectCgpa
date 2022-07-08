@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/bg_login.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/btn_newsem.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/buttonbg.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/cgpabox.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/circle_res.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/homebox.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/ic_baseline_mode_24.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/drawable/logo.xml" value="0.238" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/activity_register_semester.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/activity_signup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/addnewsem_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/main_nav_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/main_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/azree/AndroidStudioProjects/ProjectCgpa/app/src/main/res/layout/single_row_semester.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
